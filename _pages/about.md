@@ -21,6 +21,47 @@ Here is a button embedded in Markdown:
 
 Continue with regular Markdown text here.
 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Leaflet Map with Markers</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+
+    <style>
+        #map { height: 400px; }
+    </style>
+</head>
+<body>
+
+<div id="map"></div>
+
+<script>
+    var map = L.map('map').setView([52.37052, 9.73322], 6); // Set view to a center point between the two cities
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    // Marker for Hannover
+    L.marker([52.37052, 9.73322]).addTo(map)
+        .bindPopup('<b>Hannover</b>');
+
+    // Marker for Freiburg im Breisgau
+    L.marker([47.99901, 7.8421]).addTo(map)
+        .bindPopup('<b>Freiburg im Breisgau</b>');
+</script>
+
+</body>
+</html>
+
+
+<iframe src="map.html" width="100%" height="400"></iframe>
+
+
 
 
 <iframe src="/talkmap/map.html" height="600" width="480" style="border:none;"></iframe>

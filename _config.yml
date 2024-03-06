@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en_US"
-title                    : "I am a Geographer and Musician based in Hanover, Germany"
+title                    : "I am a Geographer and Musician based in Hannover, Germany"
 title_separator          : "-"
 name                     : &name "Jan Niklas Schmid"
 description              : &description "welcome to my space :)"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "M.Sc. Landscape Ecology Student and Music Producer"
   location         : "Hanover, Germany"
-  employer         : "Leibniz University Hanover"
+  employer         : "Leibniz University Hannover"
   uri              : # URL
   email            : "jnschmd44@gmail.com" 
 

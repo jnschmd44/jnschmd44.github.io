@@ -16,4 +16,4 @@ With his deep understanding of Geographic Information Systems (GIS), he's become
 Living in Hannover, a city known for its cultural diversity and innovation, perfectly matches his quest for continuous learning and adapting to new technologies. Besides his professional activities, he engages in the local tech community and music scene, sharing his knowledge and promoting exchange among professionals. His interests go well beyond his profession – from diving to music production, highlighting his creative vein and his ability to create and explore complex worlds.
 
 
-<iframe src="/talkmap/map.html" height="500" width="420" style="border:none;"></iframe>
+<iframe src="/talkmap/map.html" height="600" width="480" style="border:none;"></iframe>

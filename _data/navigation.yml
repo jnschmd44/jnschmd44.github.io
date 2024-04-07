@@ -14,6 +14,11 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
+
+
+  - title: "Astrophotography"
+    url: /Astrophotography/
+
     
   - title: "CV"
     url: /cv/

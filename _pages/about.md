@@ -16,3 +16,6 @@ With his deep understanding of Geographic Information Systems (GIS), he's become
 Living in Hannover, a city known for its cultural diversity and innovation, perfectly matches his quest for continuous learning and adapting to new technologies. Besides his professional activities, he engages in the local tech community and music scene, sharing his knowledge and promoting exchange among professionals. His interests go well beyond his profession – from diving to music production, highlighting his creative vein and his ability to create and explore complex worlds.
 
 
+<div style="text-decoration:none; overflow:hidden;max-width:100%;width:500px;height:500px;"><div id="embed-map-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="1" src="https://www.google.com/maps/embed/v1/place?q=Hannover,+Deutschland&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="from-embedmap-code" href="https://www.bootstrapskins.com/themes" id="grab-map-info">premium bootstrap themes</a><style>#embed-map-satellite img.text-marker{max-width:none!important;background:none!important;}img{max-width:none}</style></div>
+
+

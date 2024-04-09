@@ -71,8 +71,6 @@ jnschmd44.github.io/files/thesis_schmid_earth_engine.pdf
     </embed>
 </object>
 
-https://github.com/jnschmd44/jnschmd44.github.io/blob/4ffb544f46df1ad6a1350cd14868c941bdd3d356/files/thesis_schmid_earth_engine.pdf
-
 
 
 

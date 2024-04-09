@@ -12,11 +12,13 @@ main:
 
 
 
-  - title: "prod."
-    url: /prod/
+  - title: "Music"
+    url: /music/
 
 
 
+  - title: "Talkmap"
+    url: /talkmap/
 
 
   - title: "Publications"

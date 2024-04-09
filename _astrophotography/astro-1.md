@@ -1,6 +1,6 @@
 ---
 title: "making a wounderful long time exposure @ Grasdorf, Hannover, Germany"
-excerpt: "i was strolling around with nezir, a friend of mine, around Grasdorf, Hannover, Germany. it was wonderful.<br/><img src='/images/long time exposure.png' width='200'>"
+excerpt: "i was strolling around with nezir, a friend of mine, around Grasdorf, Hannover, Germany. it was wonderful.<br/><img src='/images/long time exposure.png' width='400'>"
 collection: portfolio
 ---
 

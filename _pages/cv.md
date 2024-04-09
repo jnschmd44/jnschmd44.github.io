@@ -62,3 +62,24 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+
+https://github.com/jnschmd44/jnschmd44.github.io/blob/master/files/thesis_schmid_earth_engine.pdf
+
+<object data="https://github.com/jnschmd44/jnschmd44.github.io/blob/master/files/thesis_schmid_earth_engine.pdf
+" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/jnschmd44/jnschmd44.github.io/blob/master/files/thesis_schmid_earth_engine.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/jnschmd44/jnschmd44.github.io/blob/master/files/thesis_schmid_earth_engine.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
+
+
+
+
+
+
+
+
+

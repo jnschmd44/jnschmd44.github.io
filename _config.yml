@@ -210,9 +210,26 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-.prod:
+  music:
     output: true
     permalink: /:collection/:path/
+    
+  talkmap:
+    output: true
+    permalink: /:collection/:path/
+
+  music:
+    output: true
+    permalink: /:collection/:path/
+
+
+
+
+
+
+
+
+    
 
 # Defaults
 defaults:
